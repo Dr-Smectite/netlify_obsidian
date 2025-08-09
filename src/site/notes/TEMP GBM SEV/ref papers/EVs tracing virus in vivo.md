@@ -6,7 +6,7 @@
 > Hypoxic Neural Stem Cells Enhance Spinal Cord Repair Through HIF-1a/RAB17-Driven Extracellular Vesicle Release
 
 # CD63-GFP+ EVs _in vitro & in vivo_
-![Pasted image 20250809195810.png|175](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/Pasted%20image%2020250809195810.png)![Pasted image 20250809195847.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/Pasted%20image%2020250809195847.png)
-![Pasted image 20250809195904.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/Pasted%20image%2020250809195904.png)![Pasted image 20250809195915.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/Pasted%20image%2020250809195915.png)
+![PMID40660091-2G.png|175](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2G.png)![PMID40660091-2H.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2H.png)
+![PMID40660091-2I.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2I.png)![PMID40660091-2J.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2J.png)
 # CM & CM-EVs-rm _in vivo_
-![Pasted image 20250809200247.png|300](/img/user/Pasted%20image%2020250809200247.png)
+![PMID40660091-2K.png|300](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2K.png)
