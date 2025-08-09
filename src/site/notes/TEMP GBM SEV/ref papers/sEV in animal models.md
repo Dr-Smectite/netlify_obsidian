@@ -10,4 +10,4 @@
 ![PMID40660091-2G.png|175](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2G.png)![PMID40660091-2H.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2H.png)
 ![PMID40660091-2I.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2I.png)![PMID40660091-2J.png|250](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2J.png)
 # CM & CM-sEV-rm _in vivo_
-![PMID40660091-2K.png|300](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2K.png)
+![PMID40660091-2K.png|350](/img/user/TEMP%20GBM%20SEV/ref%20papers/fig/PMID40660091-2K.png)
